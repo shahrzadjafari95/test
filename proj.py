@@ -1,1 +1,1 @@
-print ("hello sina")
+print ("welcome to calculator")
